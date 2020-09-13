@@ -1,0 +1,3 @@
+13-88:
+I did it with php artisan tinker and I understood MassAssignment exeception creates when we don't have $fillable= ['name'] for example in our model
+
